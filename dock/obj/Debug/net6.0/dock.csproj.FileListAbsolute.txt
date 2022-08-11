@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\dock\dock\bin\Debug\net6.0\dock.exe
+C:\Users\andre\Downloads\c#\dock\dock\bin\Debug\net6.0\dock.deps.json
+C:\Users\andre\Downloads\c#\dock\dock\bin\Debug\net6.0\dock.runtimeconfig.json
+C:\Users\andre\Downloads\c#\dock\dock\bin\Debug\net6.0\dock.dll
+C:\Users\andre\Downloads\c#\dock\dock\bin\Debug\net6.0\dock.pdb
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.dll
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\refint\dock.dll
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.pdb
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\dock.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\dock\dock\obj\Debug\net6.0\ref\dock.dll
